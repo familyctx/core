@@ -22,7 +22,7 @@ export type Profile = {
 export type FamilyCtxSession = {
   accountId: AccountId;
   activeProfileId: ProfileId | null;
-  deviceId?: DeviceId;
+  deviceId: DeviceId | undefined;
   parentMode: boolean;
   updatedAt: number;
 };
