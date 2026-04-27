@@ -1,6 +1,6 @@
 {
   "name": "@familyctx/core",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Context-based identity layer for multi-profile applications.",
   "license": "MIT",
   "author": "Preston Arnold <prestonarnold.uk>",
